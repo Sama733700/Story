@@ -1,0 +1,32 @@
+body{
+  background-image: url("https://images4.alphacoders.com/150/thumb-1920-150168.jpg");
+  text-align: center;
+}
+
+h1{
+  margin:50px 50px;
+  font-size: 75px;
+}
+
+
+
+#para{
+  font-size: 30px;
+  color: white;
+}
+
+button{
+  width:20%;
+  height:50px;
+  border-radius: 10px;
+  font-size: 30px;
+  margin:70px 50px;
+}
+
+#increment{
+  background-color: red;
+}
+
+#save{
+  background-color: green;
+}

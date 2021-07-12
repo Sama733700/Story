@@ -1,0 +1,19 @@
+.nav-item{
+  padding: 0 10px;
+}
+
+.first-text{
+  margin:50px 50px;
+  padding:10px;
+  display:inline-block;
+}
+
+.text{
+  margin:20px 10px;
+}
+
+.first-img{
+  display: inline-block;
+  position: relative;
+  width:50%;
+}

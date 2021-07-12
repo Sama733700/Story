@@ -1,0 +1,34 @@
+/***********************************************Tag Selectors*************************************************************/
+
+h1 {
+  color: red;
+}
+
+img:hover{
+  background-color:gold;
+}
+/* the :hover is called a pseudu class. It is a subset of the element and "hover" means when you touch the image with your mouse */
+
+
+
+
+/******************************************************CLASS SELECTORS******************************************************/
+.bacon{
+  background-color: green;
+}
+
+.broccoli{
+  background-color: red;
+
+}
+
+.circular{
+  border-radius: 50%;
+}
+/* You can make two classes this way. Remember that you can only do this with classes. You can't do this with IDs.*/
+
+/***********************************************************ID SELECTORS***************************************************/
+
+#heads{
+  color: blue;
+}
